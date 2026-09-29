@@ -1,0 +1,9 @@
+*
+!_build/
+!_build/emqx/
+!_build/emqx/rel/
+!_build/emqx/rel/emqx/
+!_build/emqx/rel/emqx/**
+!deploy/
+!deploy/docker/
+!deploy/docker/docker-entrypoint.sh
